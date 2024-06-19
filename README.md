@@ -1,4 +1,4 @@
-# Bike Store-Dashboard
+# Bike Store- Power BI Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWExODc4NjQtNDc4ZC00Y2NhLWJmNGUtN2I5ZmI4NmY0NGFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
 
