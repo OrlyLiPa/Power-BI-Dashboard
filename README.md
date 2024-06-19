@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWExODc4NjQtNDc4ZC00Y2NhLWJmNGUtN2I5ZmI4NmY0NGFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
 
-## Dashboard Overview
+## Problem Statement
 
 This dashboard provides an interactive and intuitive financial and operational overview for a Bike Store, showcasing key financial data such as revenue, profit, total orders, and returns. By structuring the dashboard into three comprehensive pages, Bike Store's management can obtain detailed insights into overall financial performance, product-specific metrics, and customer behavior, facilitating data-driven decision-making and strategic planning.
 
@@ -24,9 +24,23 @@ The dashboard is divided into three pages:
 
 
 
-### Steps followed 
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
+
+
+### Final Dashboard
+[Bike Store.pdf](https://github.com/user-attachments/files/15904460/Bike.Store.pdf)
+
+### Summary
+![Summary](https://github.com/OrlyLiPa/Test/assets/173278621/df6e600b-668e-460c-84bf-2ade83d8525f)
+
+### Product Details
+![Product Detail](https://github.com/OrlyLiPa/Test/assets/173278621/fd0a0b50-84af-49da-bfdd-0bc8e6c2eec7)
+
+### Customers
+![Customers](https://github.com/OrlyLiPa/Test/assets/173278621/5329b92b-5788-4fe6-ba50-da789af415c5)
+
+### Steps followed 
+- Step 1 : Load data into Power BI Desktop
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present except column named "Arrival Delay".
