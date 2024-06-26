@@ -40,24 +40,26 @@ The dashboard is divided into three pages:
 ![Customers](https://github.com/OrlyLiPa/Test/assets/173278621/5329b92b-5788-4fe6-ba50-da789af415c5)
 
 ### Steps followed 
-- Step 1 : Load data into Power BI Desktop
-- Step 2 : Using the Power Query editor for data transformation, profiling, cleansing and standardization:
+- Step 1 : **Load data into Power BI Desktop**
+- Step 2 : **Transform and Profile Data in Power Query Editor:**
     -  Data Profiling: remove errors, delete duplicates, check data quality, distribution and profile
     -  Rename columns, change data types, and split or merge columns
-    -  Create new columns based on condition
+    -  Create new columns based on conditions
     -  Merge and Append data from multiple tables
-- Step 3 : Creating data model:
-    - Using Primary and Foreign keys to create relationship between Fact and Dimention tables
-    - Adding Inactive relationships and updating relationship cardinality and filter flow
+- Step 3 : **Creating data model:**
+    - Use primary and foreign keys to create relationships between fact and dimension tables
+    - Add inactive relationships and update relationship cardinality and filter flow
     - Update data formats and categories
     - Create data hierarchies
-- Step 4 : Create calculated fields (DAX):
-    - Creating calculated columns and advanced Measures
-- Step 5 : Data Visualization:
-    - Designed the dashboard based on the audience: Summary page: Executive view with high-level KPIs, Product and Customer detailed views for sales product professionals. 
-    - Utilized different visualizations: Card, Maps, Charts, Tables/Matrix, Slicers
-    - Added different levels of granularity by using Drill up and down and drill through
+- Step 4 : **Create calculated fields (DAX):**
+    - Creating calculated columns and advanced Measures using (CALCULATE, FILTER, RELATED, SWITCH, ALL/ALLSELECTED, UNION and many more) 
+- Step 5 :** Data Visualization:**
+    - Designed the dashboard based on the audience:
+        - **Summary page:** Executive view with high-level KPIs
+        - **Product and Customer detailed views:** for sales and product professionals. 
+    - Utilized different visualizations: cards, maps, charts, tables/matrix, slicers
+    - Added different levels of granularity by using drill up and down and drill through
     - Adjust report interactions to customize how filters applied to one visual impact other visuals on the page
-    - Create Bookmarks to allow "Remove all filter" and capability
-    - Added Numeric and Field parameters (for Product price adjustment and metric selection)
+    - Create Bookmarks to allow "Remove all filter" and capability and report Slicer Panels 
+    - Added Numeric and Field parameters for Product price adjustment and metric selection
 
