@@ -53,7 +53,7 @@ The dashboard is divided into three pages:
     - Create data hierarchies
 - Step 4 : **Create calculated fields (DAX):**
     - Creating calculated columns and advanced Measures using (CALCULATE, FILTER, RELATED, SWITCH, ALL/ALLSELECTED, UNION and many more) 
-- Step 5 :** Data Visualization:**
+- Step 5 : **Data Visualization:**
     - Designed the dashboard based on the audience:
         - **Summary page:** Executive view with high-level KPIs
         - **Product and Customer detailed views:** for sales and product professionals. 
