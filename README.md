@@ -12,7 +12,6 @@ The dashboard is divided into three pages:
     - KPIs: Monthly results vs. targets for revenue, orders, and returns
     - Map: Geographical representation showing total orders and revenue per city
     - Top 20 Products: ranked list based on sales, highlighting bestsellers and key revenue drivers.
-
 - Product Details: In-depth look at specific categories or products
     - KPIs: Monthly actual vs. target for orders, revenue, and profit
     - Profit Analysis: Display total and adjusted profit based on the current product prices, with the ability to change prices using a slicer
@@ -60,6 +59,6 @@ The dashboard is divided into three pages:
     - Utilized different visualizations: cards, maps, charts, tables/matrix, slicers
     - Added different levels of granularity by using drill up and down and drill through
     - Adjust report interactions to customize how filters applied to one visual impact other visuals on the page
-    - Create Bookmarks to allow "Remove all filter" and capability and report Slicer Panels 
+    - Create Bookmarks to allow "Remove all filter" capability and report Slicer Panel
     - Added Numeric and Field parameters for Product price adjustment and metric selection
 
