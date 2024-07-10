@@ -1,10 +1,10 @@
-# Bike Store- Power BI Dashboard
+# Boutique Store - Power BI Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWExODc4NjQtNDc4ZC00Y2NhLWJmNGUtN2I5ZmI4NmY0NGFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
 
 ## Problem Statement
 
-This dashboard provides an interactive and intuitive financial and operational overview for a Bike Store, showcasing key metrics such as revenue, profit, total orders, and returns. It is structured into three comprehensive pages, enabling Bike Store's management to gain detailed insights into financial performance, product-specific metrics, and customer behavior for data-driven decision-making and strategic planning.
+This dashboard provides an interactive financial and operational overview of a Boutique Store, showcasing key metrics such as revenue, profit, total orders, and returns. It is structured into three comprehensive pages, enabling Bike Store's management to gain detailed insights into financial performance, product-specific metrics, and customer behaviour for data-driven decision-making and strategic planning.
 
 The dashboard is divided into three pages:
 
@@ -27,16 +27,16 @@ The dashboard is divided into three pages:
 
 
 ### Final Dashboard
-[Bike Store.pdf](https://github.com/user-attachments/files/15904460/Bike.Store.pdf)
+[Boutique Store.pdf](https://github.com/user-attachments/files/16153449/Boutique.Store.pdf)
 
 ### Summary
-![Summary](https://github.com/OrlyLiPa/Test/assets/173278621/df6e600b-668e-460c-84bf-2ade83d8525f)
+![Summary](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/51eb30ec-166b-4c9f-ab91-36da3461bff0)
 
 ### Product Details
-![Product Detail](https://github.com/OrlyLiPa/Test/assets/173278621/fd0a0b50-84af-49da-bfdd-0bc8e6c2eec7)
+![Product Details](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/d63f3252-0834-42fa-823a-1a270d8cb3cc)
 
 ### Customers
-![Customers](https://github.com/OrlyLiPa/Test/assets/173278621/5329b92b-5788-4fe6-ba50-da789af415c5)
+![Customers](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/24a43e23-0f48-47b0-b3f3-d4b5bb2fc0af)
 
 ### Steps followed 
 - Step 1 : **Load data into Power BI Desktop**
@@ -51,7 +51,7 @@ The dashboard is divided into three pages:
     - Update data formats and categories
     - Create data hierarchies
 - Step 4 : **Create calculated fields (DAX):**
-    - Creating calculated columns and advanced Measures using (CALCULATE, FILTER, RELATED, SWITCH, ALL/ALLSELECTED, UNION and many more) 
+    - Creating calculated columns and advanced Measures using (CALCULATE, FILTER, RELATED, SWITCH, ALL/ALLSELECTED, SUMX, DATEADD and many more) 
 - Step 5 : **Data Visualization:**
     - Designed the dashboard based on the audience:
         - **Summary page:** Executive view with high-level KPIs
