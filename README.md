@@ -1,6 +1,6 @@
 # Boutique Store - Power BI Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMWExODc4NjQtNDc4ZC00Y2NhLWJmNGUtN2I5ZmI4NmY0NGFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
+### Dashboard Link : [https://app.powerbi.com/view?r=eyJrIjoiMWExODc4NjQtNDc4ZC00Y2NhLWJmNGUtN2I5ZmI4NmY0NGFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9](https://app.powerbi.com/groups/me/reports/b3e991f0-bf3f-4b97-ab83-999199cb5691/0b352420daf864086960?experience=power-bi)
 
 ## Problem Statement
 
