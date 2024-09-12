@@ -31,7 +31,7 @@ The dashboard is divided into three pages:
 [Boutique Store.pdf](https://github.com/user-attachments/files/16180101/Boutique.Store.pdf)
 
 ### Summary
-![Summary](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/51eb30ec-166b-4c9f-ab91-36da3461bff0)
+![Summary](https://github.com/user-attachments/assets/8c87c559-3ab2-4f0b-8b89-bc8bd583e34d)
 
 ### Product Details
 ![Product Details](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/d63f3252-0834-42fa-823a-1a270d8cb3cc)
