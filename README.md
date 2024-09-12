@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-This dashboard provides an interactive financial and operational overview of a Boutique Store, showcasing key metrics such as revenue, profit, total orders, and returns. It is structured into three comprehensive pages, enabling Bike Store's management to gain detailed insights into financial performance, product-specific metrics, and customer behaviour for data-driven decision-making and strategic planning.
+This dashboard provides an interactive financial and operational overview of a Boutique Store, showcasing key metrics such as revenue, profit, total orders, and returns. It is structured into three comprehensive pages, enabling Boutique Store's management to gain detailed insights into financial performance, product-specific metrics, and customer behaviour for data-driven decision-making and strategic planning.
 
 The dashboard is divided into three pages:
 
