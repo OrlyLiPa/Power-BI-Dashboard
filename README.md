@@ -34,10 +34,10 @@ The dashboard is divided into three pages:
 ![Summary](https://github.com/user-attachments/assets/8c87c559-3ab2-4f0b-8b89-bc8bd583e34d)
 
 ### Product Details
-![Product Details](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/d63f3252-0834-42fa-823a-1a270d8cb3cc)
+![Product Detail B](https://github.com/user-attachments/assets/8ee62a4f-1fcd-4012-b2a0-dd9a503cc01a)
 
 ### Customers
-![Customers](https://github.com/OrlyLiPa/Power-BI-Dashboard/assets/173278621/24a43e23-0f48-47b0-b3f3-d4b5bb2fc0af)
+![Customers b](https://github.com/user-attachments/assets/8f33e500-72e4-4cab-a10a-e29449b46292)
 
 ### Steps followed 
 - Step 1 : **Load data into Power BI Desktop**
